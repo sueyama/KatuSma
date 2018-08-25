@@ -1,0 +1,6 @@
+framework module Pods_KatuSma {
+  umbrella header "Pods-KatuSma-umbrella.h"
+
+  export *
+  module * { export * }
+}
